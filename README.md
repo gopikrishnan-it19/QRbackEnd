@@ -1,3 +1,11 @@
+Install
+```
+git clone https://github.com/gopikrishnan-it19/QRbackEnd.git
+cd QRbackEnd
+npm install
+node index.js
+```
+
 # Generate-a-QR-code-in-Node.js
 
 This code will enable you to generate a QR code in Node.js from URLs and Text and preview it as a simple webpage.
